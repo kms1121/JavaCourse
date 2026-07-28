@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println(true);
         System.out.println('$');
         System.out.println(3.242423523);
+        System.out.println("KyiMin");
     }
 }
