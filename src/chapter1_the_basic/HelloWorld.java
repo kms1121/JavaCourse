@@ -8,5 +8,6 @@ public class HelloWorld {
         System.out.println('$');
         System.out.println(3.242423523);
         System.out.println("Hello " + 2026);
+        System.out.println("Color");
     }
 }
