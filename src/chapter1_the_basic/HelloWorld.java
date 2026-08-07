@@ -1,5 +1,7 @@
 package chapter1_the_basic;
 
+import java.sql.SQLOutput;
+
 public class HelloWorld {
     static void main() {
         System.out.println("Hello Java");
@@ -8,5 +10,6 @@ public class HelloWorld {
         System.out.println('$');
         System.out.println(3.242423523);
         System.out.println("KyiMin");
+        System.out.println("Soe");
     }
 }
