@@ -22,8 +22,8 @@ public class L9UnaryOperator {
     }
 }
 
-// ++a prefix
-// --a prefix
+// ++a prefix increment
+// --a prefix decrement
 
 // a++ postfix
 // a-- postfix
