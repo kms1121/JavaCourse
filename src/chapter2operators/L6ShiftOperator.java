@@ -6,7 +6,7 @@ public class L6ShiftOperator {
         int a = 10 << 3; //left shift // 10 * (2 ** 3)
         System.out.println(a);
 
-        int b = 10 >> 2; // right shift // 10 * (2 ** 2)
+        int b = 10 >> 2; // right shift // 10 / (2 ** 2)
         System.out.println(b);
 
     }

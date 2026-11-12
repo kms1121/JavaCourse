@@ -11,7 +11,7 @@ public class L5BitwiseOperator {
         boolean result3 = false ^ false;
         System.out.println(result3);
 
-        var result = 5 | 3;
+        var result = 5 ^ 3;
         System.out.println(result);
     }
 }

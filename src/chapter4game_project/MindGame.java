@@ -38,7 +38,5 @@ public class MindGame {
                 System.out.println("Input is less than the correct number");
             }
         }
-
-
     }
 }
